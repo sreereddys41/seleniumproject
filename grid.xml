@@ -1,0 +1,8 @@
+<suite name="OrangeHRM Application">
+<parameters name="Browser" value="chrome"/>
+<test name="chrometest">
+<classes>
+<class name="Grid.sample_grid"/>
+</classes>
+</test>
+</suite>
